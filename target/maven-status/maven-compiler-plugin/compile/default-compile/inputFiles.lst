@@ -18,6 +18,7 @@ D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\model\Role.java
 D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\controller\AdminController.java
 D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\repository\RoleRepository.java
 D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\security\WebSecurityConfig.java
+D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\ServletInitializer.java
 D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\user\controller\PdfDownloadDontroller.java
 D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\service\UserService.java
 D:\git\repo1\adminsecurity\src\main\java\com\jugal\adminsecurity\model\AppRole.java
